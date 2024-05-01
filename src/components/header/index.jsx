@@ -112,17 +112,27 @@ export default function Header(props) {
               </Box>
             </Box>
             <Box sx={{ display: { sm: "block" } }}>
-              <a href="mailto: sonam10102018@gmail.com" target={"_blank"}>
+              <a href="mailto: dev5032@outlook.com" target={"_blank"}>
                 <IconButton sx={{ color: "#fff" }}>
                   <MailIcon />
                 </IconButton>
               </a>
               <a
-                href="https://www.linkedin.com/in/sonam-das-878151243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                href="https://www.linkedin.com/in/devraj-srivastawa/"
                 target={"_blank"}
               >
                 <IconButton sx={{ color: "#fff" }}>
                   <LinkedInIcon />
+                </IconButton>
+              </a>
+              <a href="https://github.com/Devraj5032" target={"_blank"}>
+                <IconButton sx={{ color: "#fff" }}>
+                  <GitHubIcon />
+                </IconButton>
+              </a>
+              <a href="https://twitter.com/iDSrivastawa" target={"_blank"}>
+                <IconButton sx={{ color: "#fff" }}>
+                  <TwitterIcon />
                 </IconButton>
               </a>
             </Box>

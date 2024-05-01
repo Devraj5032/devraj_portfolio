@@ -61,7 +61,7 @@ export default function Home() {
               color: "#fff",
             }}
           >
-            Sonam
+            Devraj
           </Typography>
         </Stack>
         <Typography

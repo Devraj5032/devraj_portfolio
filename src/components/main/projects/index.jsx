@@ -133,13 +133,19 @@ export default function Projects() {
 
 const skills = [
   {
+    img: require("../../../assets/img/ecomm.png"),
+    title: "E-comm",
+    git:"https://github.com/Devraj5032/ecomm-client"
+  },
+  {
     img: require("../../../assets/img/talk_a_tive.png"),
     title: "Talk-A-Tive",
+    git: "https://github.com/Devraj5032/Talk-A-Tive",
     live:"https://talk-a-tive-o3fi.onrender.com/"
   },
   {
-    img: require("../../../assets/img/portfolio.png"),
-    title: "Portfolio",
-    live:""
+    img: require("../../../assets/img/inotebook.png"),
+    title: "iNotebook",
+    git:"https://github.com/Devraj5032/iNotebook"
   }
 ];

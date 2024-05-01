@@ -102,31 +102,33 @@ export default function Experience() {
 
 const steps = [
   {
-    label: "Front-end Web Developer Intern",
-    company: "Health Highway",
-    duration: "03/2023 – 05/2023",
-    location: "Rishikesh, India",
+    label: "Full Stack Developer",
+    company: "Green Quest Consulting",
+    duration: "01/2024 – present",
+    location: "Jamshedpur, India",
     description:
-      "• Was responsible for making website and admin panel from scratch using react.",
+      "• Made scalable backend using TypeScript and MySQL.",
     description2:
-      "• Entirely replace the previous codebase with a more performant and manageable codebase.",
+      "• Responsible for making frontend using Next.js and Tailwind CSS",
+  },
+  {
+    label: "Web Developer",
+    company: "The Opus Way",
+    duration: "05/2023 – 11/2023",
+    location: "kolkata, India",
+    description:
+      "• Responsible for managing backend and frontend infrastructure built on Express, React.js and MongoDB at its core.",
+    description2:
+      "• Was leading a team of developers and was responsible for quality code.",
   },
   {
     label: "Web Developer Intern",
-    company: "Homehub Global",
-    duration: "05/2023 – 06/2023",
-    location: "Bangalore, India",
+    company: "Rudrayati Technologies",
+    duration: "11/2022 – 01/2023",
+    location: "Jamshedpur, India",
     description:
-      "• Was responsible for making a full-stack web application using ReactJS, HTML, CSS, JavaScript, and Node.js.",
+      "• Developed the entire frontend (React.js and Material UI) for the organization's web application, ensuring a smooth and user-friendly interface.",
     description2:
-      "• The frontend was developed in React js, including redux, material UI, etc.",
+      "• Collaborated with backend developers to integrate frontend components, streamlining the development process.",
   },
-  // {
-  //   label: "Web Developer",
-  //   company: "Rudrayati",
-  //   duration: "07/2022 – Present",
-  //   location: "Jamshedpur, India",
-  //   description: '• Was responsible for making the entire flow of work and frontend(using react.js for the organization.',
-  //   description2 : '• Also responsible for managing a team of 4 interns.',
-  // },
 ];

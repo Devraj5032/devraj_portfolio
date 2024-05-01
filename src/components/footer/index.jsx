@@ -40,7 +40,7 @@ export default function Footer() {
             },
           }}
         >
-          Copyright &copy; 2024 Sonam.
+          Copyright &copy; 2024 Devraj.
         </Typography>
         <Box
           sx={{
@@ -49,7 +49,7 @@ export default function Footer() {
             "@media (max-width: 700px)": { width: "140px" },
           }}
         >
-          <a href="mailto: sonam10102018@gmail.com" target={"_blank"}>
+          <a href="mailto: dev5032@outlook.com" target={"_blank"}>
             <IconButton sx={{ color: "#fff", border: "1px solid", mr: 1 }}>
               <MailIcon
                 sx={{
@@ -62,11 +62,41 @@ export default function Footer() {
             </IconButton>
           </a>
           <a
-            href="https://www.linkedin.com/in/sonam-das-878151243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/devraj-srivastawa/"
             target={"_blank"}
           >
             <IconButton sx={{ color: "#fff", border: "1px solid", mr: 1 }}>
               <LinkedInIcon
+                sx={{
+                  "@media (max-width: 700px)": {
+                    height: "10px",
+                    width: "10px",
+                  },
+                }}
+              />
+            </IconButton>
+          </a>
+          <a
+            href="https://github.com/Devraj5032"
+            target={"_blank"}
+          >
+            <IconButton sx={{ color: "#fff", border: "1px solid", mr: 1 }}>
+              <GitHubIcon
+                sx={{
+                  "@media (max-width: 700px)": {
+                    height: "10px",
+                    width: "10px",
+                  },
+                }}
+              />
+            </IconButton>
+          </a>
+          <a
+            href="https://twitter.com/iDSrivastawa"
+            target={"_blank"}
+          >
+            <IconButton sx={{ color: "#fff", border: "1px solid", mr: 1 }}>
+              <TwitterIcon
                 sx={{
                   "@media (max-width: 700px)": {
                     height: "10px",

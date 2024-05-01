@@ -96,7 +96,7 @@ export default function About() {
                 "@media (max-width: 550px)": { fontSize: "25px" },
               }}
             >
-              I'm Sonam
+              I'm Devraj
             </Typography>
           </Zoom>
           <Zoom>
