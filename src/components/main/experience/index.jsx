@@ -105,7 +105,7 @@ const steps = [
     label: "Full Stack Developer",
     company: "Green Quest Consulting",
     duration: "01/2024 – present",
-    location: "Jamshedpur, India",
+    location: "India (Remote)",
     description:
       "• Made scalable backend using TypeScript and MySQL.",
     description2:
@@ -114,7 +114,7 @@ const steps = [
   {
     label: "Web Developer",
     company: "The Opus Way",
-    duration: "05/2023 – 11/2023",
+    duration: "05/2021 – 11/2023",
     location: "kolkata, India",
     description:
       "• Responsible for managing backend and frontend infrastructure built on Express, React.js and MongoDB at its core.",
@@ -124,7 +124,7 @@ const steps = [
   {
     label: "Web Developer Intern",
     company: "Rudrayati Technologies",
-    duration: "11/2022 – 01/2023",
+    duration: "09/2020 – 04/2021",
     location: "Jamshedpur, India",
     description:
       "• Developed the entire frontend (React.js and Material UI) for the organization's web application, ensuring a smooth and user-friendly interface.",
